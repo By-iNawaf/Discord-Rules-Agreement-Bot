@@ -104,7 +104,9 @@ node bot.js
 
 ### 🧑‍💻 المطور
 
-تم تطوير هذا البوت من قبل **[https://github.com/By-iNawaf]**  
+تم تطوير هذا البوت من قبل 
+**- 🌐 GitHub: [ByNawaf](https://github.com/i-close)
+- 💬 Discord: [discord.gg/Nawaf](https://discord.gg/Ay4cqudf9r)**  
 لأي استفسار أو تعديل، لا تتردد بالتواصل!
 
 ---
