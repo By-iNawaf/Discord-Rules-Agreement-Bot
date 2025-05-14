@@ -39,7 +39,7 @@ rules-bot/
 1. **نسخ المستودع**:
 
 ```bash
-git clone https://github.com/yourusername/rules-bot.git
+git clone https://github.com/By-iNawaf/Discord-Rules-Agreement-Bot.git
 cd rules-bot
 ```
 
