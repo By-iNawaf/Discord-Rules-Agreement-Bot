@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node bot.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/By-iNawaf/Discord-Rules-Agreement-Bot.git"
+  },
   "dependencies": {
     "discord.js": "^14.19.3"
   },
